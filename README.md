@@ -26,6 +26,7 @@ Dilate the Image
 Developed By:Ganji Muni Madhuri
 Ref No:212223230060
 ```
+```
 # Import the necessary packages
 
 import numpy as np
@@ -79,7 +80,7 @@ plt.title("Dilated Image")
 plt.axis("off")
 ```
 
-Output:
+## Output:
 # Display the input Image
 ![image](https://github.com/user-attachments/assets/033b7c7c-1302-49ba-88a8-dc8757d0451e)
 
